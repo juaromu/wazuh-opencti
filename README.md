@@ -231,7 +231,8 @@ Observables or Indicators in OpenCTI enriched with labels providing context will
 
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](image1.png "image_tooltip")
+
 
 
 
